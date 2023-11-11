@@ -4,7 +4,7 @@
 }
 
 .logo-nav {
-  width: 5rem;
+  width: 6em;
 }
 
 header {
@@ -26,13 +26,28 @@ header {
   margin-right: auto;
   margin-left: auto;
 }
+
 .footer-icons li {
   display: inline-block;
   font-size: 3rem;
   margin-right: 2rem;
+  color: #0C1821;
+
 }
 
 .imagenes {
   height: 130px;
   object-fit: cover;
+}
+
+.about-me{
+  background-color: #0C1821;
+}
+
+.contacto{
+  background-color: #0C1821;
+}
+
+.color{
+  background-color: #0E202D;
 }
