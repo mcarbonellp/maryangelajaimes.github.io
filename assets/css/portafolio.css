@@ -26,20 +26,10 @@ header {
   margin-right: auto;
   margin-left: auto;
 }
-
-.semibold-title {
-  font-weight: 600;
-}
-
-footer img {
-  width: 14rem;
-}
-
 .footer-icons li {
   display: inline-block;
   font-size: 3rem;
   margin-right: 2rem;
-  color: black;
 }
 
 .imagenes {
