@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap");
+* {
+  font-family: "Roboto", sans-serif;
+}
+.imagenes {
+  height: 190px;
+  object-fit: cover;
+}
+
+.bg-cuppon {
+  background-color: #15616d;
+}
+
+.text-cuppon {
+  color: #15616d;
+}

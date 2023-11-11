@@ -1,0 +1,59 @@
+/*estilos css*/
+body {
+  margin: 0;
+  font-family: "DM Sans", sans-serif;
+}
+
+.section-principal {
+  height: 15em;
+  padding: 10em 15em;
+  background-image: url(../img/imagen1.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.titulo-principal {
+  font-family: "DM Serif Display", serif;
+  font-size: 40px;
+}
+
+.parrafo-1 {
+  font-size: 16px;
+  color: gray;
+}
+
+.productos {
+  width: 80%;
+  margin: auto;
+  margin-top: 3em;
+}
+
+.productos td {
+  width: 50%;
+  padding: 3em;
+  color: gray;
+}
+
+.productos h3 {
+  font-weight: 400;
+}
+
+.direccion {
+  font-size: 14px;
+  font-weight: 400;
+}
+.productos img {
+  width: 100%;
+  border: solid 2px #e2e2e2;
+}
+
+.footer {
+  height: 3em;
+  line-height: 3em;
+  font-family: "DM Serif Display", serif;
+  font-size: 16px;
+  background-color: rgba(54, 73, 81, 0.808);
+  color: #ffffffd6;
+  text-align: center;
+}
